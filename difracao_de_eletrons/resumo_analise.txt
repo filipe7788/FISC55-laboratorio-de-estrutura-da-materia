@@ -1,0 +1,39 @@
+======================================================================
+RESUMO DA ANÁLISE - DIFRAÇÃO DE ELÉTRONS
+======================================================================
+
+OBJETIVO:
+Determinar experimentalmente a constante de Planck através da
+difração de elétrons em grafite policristalino.
+
+======================================================================
+RESULTADOS
+======================================================================
+
+Constante de Planck experimental:
+  h_exp = (5.8878e-34 ± 6.7578e-35) J·s
+
+Constante de Planck teórica:
+  h_teórico = 6.6260e-34 J·s
+
+Discrepância relativa: 11.14%
+
+Coeficiente de determinação (R²): 0.894004
+
+======================================================================
+AVALIAÇÃO
+======================================================================
+
+✓ RESULTADO COMPATÍVEL com o valor teórico (dentro de 2σ)
+
+A diferença observada pode ser atribuída a flutuações
+estatísticas normais do experimento.
+
+======================================================================
+CONCLUSÃO
+======================================================================
+
+A observação dos anéis de difração confirma a natureza ondulatória
+dos elétrons, validando o postulado de De Broglie (1924).
+A constante de Planck foi determinada experimentalmente com
+precisão de 11.48% através de análise gráfica.
